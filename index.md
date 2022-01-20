@@ -8,7 +8,7 @@
 @TechnicalValues
 
 <p align="center">
-  <a href="https://github.com/dev01d">
+  <a href="https://github.com/burkeazbill">
     <img 
         align="center" 
         src="https://github-readme-stats.dev01d.vercel.app/api/top-langs/?username=burkeazbill&layout=compact&langs_count=9&hide=jinja,html,css,scss,swift,ruby"
